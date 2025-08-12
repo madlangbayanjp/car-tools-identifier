@@ -1,6 +1,6 @@
-# ​ Car Tool Identifier
+# Car Tool Identifier
 
-##  What’s This?
+## What’s This?
 
 A deep-learning project using **Ultralytics YOLO (v8)** to detect and classify mechanical tools from images. Built for a school project, it demonstrates:
 
