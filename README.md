@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-%23042AFF?logo=ultralytics&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-%23042AFF?logo=ultralytics&logoColor=white)
 
 # Car Tool Identifier
 
